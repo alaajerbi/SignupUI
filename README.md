@@ -1,4 +1,4 @@
-# A Sign Up Screen UI
+# A simple Sign Up UI
 
 ![Screenshot](https://github.com/alaajerbi/SignupUI/blob/master/screenshot.png)
 
